@@ -1,7 +1,7 @@
 # Student Task Reminder
 
 ## Project Overview
-Student Task Reminder is a simple Python-based application that helps students organize their academic tasks and deadlines.
+Student Task Reminder is a smart academic planner that helps students manage assignments, deadlines, and daily study goals.
 
 ## Features
 - Add new tasks
