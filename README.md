@@ -2,6 +2,7 @@
 
 ## Project Overview
 Student Task Reminder is a smart academic planner that helps students manage assignments, deadlines, and daily study goals.
+Student Task Reminder is a useful task management tool designed to help students track assignments and complete their academic work on time.
 
 ## Features
 - Add new tasks
